@@ -103,7 +103,7 @@ function grabData() {
     showResources("Parks and Museums");
   }
   if (document.getElementById("zoos-aquariums-and-nature") !== null) {
-    showResources("Zoos, Aquariums, and Nature");
+    showResources("Zoos Aquariums and Nature");
   }
   if (document.getElementById("dashboards") !== null) {
     showResources("Dashboards");
